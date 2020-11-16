@@ -24,7 +24,11 @@ function buy3(){
                  console.log(document.getElementById("d_3").style.color = "red");
             }
             
-          
+    function buy4(){
+                t3 = 'Гостинная НЕОКЛАССИЦИЗМ - 45000 руб';
+                t33 = 45000;
+                 console.log(document.getElementById("d_3").style.color = "red");
+            }      
         
 function test(){
                 alert('Ваш заказ: \n'+t1+'\n'+t2+'\n'+t3+'\n'+'\nОбщая сумма заказа: '+(t11+t22+t33)+' руб');
